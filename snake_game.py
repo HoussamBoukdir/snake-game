@@ -18,7 +18,7 @@ BLUE = (50, 153, 213)
 
 # Snake block size and speed
 BLOCK_SIZE = 20
-SNAKE_SPEED = 15
+SNAKE_SPEED = 14
 
 # Create the screen
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
